@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 Ph.D. engineer focused on **AI-driven automation**, **data analytics**, and **enterprise workflow optimization**.  
-Delivered 20+ automation/analytics solutions, improving workflows by **30–40%** and generating **$1M+ savings**.
+Delivered 20+ automation/analytics solutions, improves workflows by **30%** and generates **over 20% of savings**.
 
 I specialize in:
 - Intelligent automation using **Python + Microsoft Power Platform**
