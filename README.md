@@ -2,7 +2,7 @@
 <!-- Header -->
 <h1>Hi there, it's Hiko 👋</h1>
 <p>
-  AI-Driven Automation • Data Engineering • Intelligent Systems
+  Technical Leader in Applied AI and Intelligent Automation * Digital Transformation * Ph.D. Engineering
 </p>
 
 <p>
