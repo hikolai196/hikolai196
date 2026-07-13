@@ -45,10 +45,8 @@ I specialize in:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hikolai196&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikolai196&theme=transparent" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hikolai196&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
 
 ---
 
@@ -75,3 +73,7 @@ Power BI templates for manufacturing & analytics operations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yen-ting-lai-56a69566/)
 
 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
