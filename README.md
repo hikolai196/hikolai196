@@ -30,15 +30,18 @@ I specialize in:
 
 ## 🛠 Core Skills
 **AI & Data**
-- Python • LLMs • ML/DL • Data Analytics  
+- Applied AI • Cloud API/Local LLM • Data Analytics
+- Dataflow • Datamart • SharePoint Integration
 
 **Automation**
-- Power Automate • PowerApps • RPA  
-- Dataflow • Datamart • SharePoint Integration  
+- RPA • Autonomous AI Agent
+- Power Automate • PowerApps • n8n
+
+**Coding**
+- Python • Typescript • Javascript • C/C++
 
 **Engineering**
-- CAD • FEA • Surrogate Modeling  
-- FMEA • APQP • PPAP
+- CAD • CAE/Finite Element • Surrogate Modeling
 
 ---
 
@@ -72,8 +75,3 @@ Power BI templates for manufacturing & analytics operations.
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yen-ting-lai-56a69566/)
 
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
